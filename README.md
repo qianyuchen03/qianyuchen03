@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @qianyuchen03, 
 just started using Github!
 - I'm interested in pretty much everything right now. 
-- Definitely want to look more into web development!
+- Definitely want to look more into software engineering/development!
 - Learning the basics.
 
 <!---
